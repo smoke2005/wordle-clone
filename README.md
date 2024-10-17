@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Wordle clone is a word-based guessing game developed using the Pygame library, featuring five interactive windows: rules, menu, options, game board, and result. The game lets users select difficulty levels, enter guesses, and receive feedback on their guesses through colored indicators. The game includes easy, medium, and hard difficulty levels with word sets for each.
+Drawing inspiration from NY Times popular game wordle [nywordle](https://www.nytimes.com/games/wordle/index.html), this Wordle clone is a word-based guessing game developed using the Pygame library, featuring five interactive windows: rules, menu, options, game board, and result. The game lets users select difficulty levels, enter guesses, and receive feedback on their guesses through colored indicators. The game includes easy, medium, and hard difficulty levels with word sets for each.
 
 ## Table of Contents
 - [Aim](#aim)
