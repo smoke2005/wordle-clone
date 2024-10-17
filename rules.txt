@@ -1,0 +1,15 @@
+Guess the WORDLE in 6 tries
+
+After each guess, the colour of the tiles will 
+change to show how close your guess
+was to the word
+
+-> First, go to options and select the 
+     difficulty level of the word.
+-> Next click on 'new game' and start
+     guessing.
+  -   The letters R and S are in the word
+and in the correct spot
+  -    The letters U and E are in the word
+ but not in the right spot
+  -    The letter L is not in the word
