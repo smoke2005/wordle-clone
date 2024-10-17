@@ -72,3 +72,6 @@ This game uses Pygame's modules like display, mouse, draw, font, image, and even
 ## Compilers Used
 - Python 3.x with the Pygame library installed.
 - IDEs like PyCharm, VS Code, or Jupyter Notebook for development.
+
+## Output
+The output screenshots are mentioned in the file CS Project
