@@ -75,6 +75,9 @@ This game uses Pygame's modules like display, mouse, draw, font, image, and even
 
 ## Output
 The output screenshots are mentioned in the file CS Project
-![Game Board](Screenshot 2024-10-17 181423.png)
+![Screenshot](Screenshot%202024-10-17%20181423.png)
+![Screenshot](Screenshot%202024-10-17%20181431.png)
+![Screenshot](Screenshot%202024-10-17%20181443.png)
+
 
 
